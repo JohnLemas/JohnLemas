@@ -1,6 +1,6 @@
 ## About Me 👋
 
-- 🔭 I’m currently working on my masters thesis!
+- 🔭 I’m currently working on my doctorate degree at Michigan State Univeristy!
 - 🌱 I’m currently learning about abiotic stress response in the polyploid species _Salsola tragus_.
 - 👯 I’m looking to collaborate on bioinformatics.
 - 🤔 I’m looking for help with bioinformatics.
